@@ -140,6 +140,7 @@ Used `USERELATIONSHIP()` to activate an **inactive relationship** for drop-off l
 <p align="center">
   <img src="Dashboard Preview/Detail_Analysis.png" width="700">
 </p>
+
 ---
 
 ## 🚀 How to Use
