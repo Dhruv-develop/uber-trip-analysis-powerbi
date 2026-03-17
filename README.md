@@ -170,13 +170,16 @@ This dashboard helps in understanding Uber trip patterns and supports:
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
 **Dhruv Rapariya**
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
+Aspiring **Data Scientist / Data Analyst**
 
 ---
 
-⭐ If you found this project useful, don’t forget to **star the repository!**
+## ⭐ Feedback
+
+Feedback and suggestions are always welcome.
+
+If you find this project useful, consider **starring ⭐ the repository**.
