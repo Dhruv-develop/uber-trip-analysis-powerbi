@@ -128,15 +128,15 @@ Used `USERELATIONSHIP()` to activate an **inactive relationship** for drop-off l
 
 ### Overview Analysis
 
-![Overview Dashboard](./assets/overview.png)
+![Overview Dashboard](./Dashboard Preview/Overview_Analysis.png)
 
 ### Time Analysis
 
-![Time Dashboard](./assets/time.png)
+![Time Dashboard](./Dashboard Preview/Time_Analysis.png)
 
 ### Details Dashboard
 
-![Details Dashboard](./assets/details.png)
+![Details Dashboard](./Dashboard Preview/Detail_Analysis.png)
 
 ---
 
