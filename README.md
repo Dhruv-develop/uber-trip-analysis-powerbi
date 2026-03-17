@@ -127,7 +127,9 @@ Used `USERELATIONSHIP()` to activate an **inactive relationship** for drop-off l
 ## 📷 Dashboard Preview
 
 ### Overview Analysis
-
+<p align="center">
+  <img src="Dashboard Preview/Overview_Analysis.png" width="700">
+</p>
 ![Overview Dashboard](./Dashboard Preview/Overview_Analysis.png)
 
 ### Time Analysis
